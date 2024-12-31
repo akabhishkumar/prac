@@ -1,3 +1,7 @@
 HELLO YADRI
 hi vaibhav
+<<<<<<< HEAD
 HOT
+=======
+CUSTOM COMMIT MESSAGE
+>>>>>>> feature-branch
